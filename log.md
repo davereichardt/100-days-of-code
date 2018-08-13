@@ -35,5 +35,5 @@
 **Link to Work**: https://codepen.io/davidreichardt/pen/KBEzvw
 
 ### Day 1: August 13, 2018
-**Today's Progress**: Finished all the responive design, flexbox, and grid challenges on freecodecamp. Finished my first project, the tribute page, as well.
-**Link to Work**: https://codepen.io/davidreichardt/pen/KBEzvw
+**Today's Progress**: Finished all the responive design, flexbox, and grid challenges on freecodecamp. Finished my first project, the tribute page, as well. Started survey page project.
+**Link to Work**: 1. https://codepen.io/davidreichardt/pen/KBEzvw 2. https://codepen.io/davidreichardt/pen/vaPvPZ
