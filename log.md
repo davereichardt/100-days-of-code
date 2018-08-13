@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +27,9 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 0: August 12, 2018 
+**Today's Progress**: Finished some freecodecamp applied accessibility challenges. Also worked on one of the projects, the tribute page.
+**Thoughts**: The part that takes the longest is doing the research. However, I know that once i get a job as a software developer, this won't be much of a problem
+**Link to Work**: https://codepen.io/davidreichardt/pen/KBEzvw
