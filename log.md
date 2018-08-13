@@ -33,3 +33,7 @@
 **Today's Progress**: Finished some freecodecamp applied accessibility challenges. Also worked on one of the projects, the tribute page.
 **Thoughts**: The part that takes the longest is doing the research. However, I know that once i get a job as a software developer, this won't be much of a problem
 **Link to Work**: https://codepen.io/davidreichardt/pen/KBEzvw
+
+### Day 1: August 13, 2018
+**Today's Progress**: Finished all the responive design, flexbox, and grid challenges on freecodecamp. Finished my first project, the tribute page, as well.
+**Link to Work**: https://codepen.io/davidreichardt/pen/KBEzvw
