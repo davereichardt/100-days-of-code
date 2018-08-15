@@ -29,6 +29,11 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
+### Day :
+**Todays's Progress**:
+**Thougths**:
+**Link to Work**:
+
 ### Day 0: August 12, 2018 
 **Today's Progress**: Finished some freecodecamp applied accessibility challenges. Also worked on one of the projects, the tribute page.
 **Thoughts**: The part that takes the longest is doing the research. However, I know that once i get a job as a software developer, this won't be much of a problem
@@ -37,3 +42,8 @@
 ### Day 1: August 13, 2018
 **Today's Progress**: Finished all the responive design, flexbox, and grid challenges on freecodecamp. Finished my first project, the tribute page, as well. Started survey page project.
 **Link to Work**: 1. https://codepen.io/davidreichardt/pen/KBEzvw 2. https://codepen.io/davidreichardt/pen/vaPvPZ
+
+### Day 2: August 14, 2018
+**Today's Progress**: Finished the survey page and workd on JS
+**Thoughts**: I don't want to design websites, that's for sure, but JS makes me think and I need more of that
+**Link to Work**: survey page[https://codepen.io/davidreichardt/pen/vaPvPZ]
