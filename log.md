@@ -44,6 +44,16 @@
 **Link to Work**: 1. https://codepen.io/davidreichardt/pen/KBEzvw 2. https://codepen.io/davidreichardt/pen/vaPvPZ
 
 ### Day 2: August 14, 2018
-**Today's Progress**: Finished the survey page and workd on JS
+**Today's Progress**: Finished the survey page and worked on JS
 **Thoughts**: I don't want to design websites, that's for sure, but JS makes me think and I need more of that
 **Link to Work**: survey page[https://codepen.io/davidreichardt/pen/vaPvPZ]
+
+### Day 3: August 15, 2018
+**Todays's Progress**: Worked on JS, didn't do much else.
+**Thougths**: I need all the practice I can get with JS, I know I need to start working on a project but right now I have no idea what I want to do
+**Link to Work**: None
+
+### Day 4: August 16, 2018
+**Todays's Progress**: going back over the JS on freecodecamp, it's mostly stuff I already know how to do, but practice makes perfect
+**Thougths**: I am honestly terrified that i am not going to be good enough to be a software developer like I want to be. I am trying my hardest, and I swear I will NOT give up
+**Link to Work**: none
